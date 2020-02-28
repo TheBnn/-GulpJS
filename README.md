@@ -1,0 +1,5 @@
+# -GulpJS
+
+npm i
+
+gulp
